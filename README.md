@@ -14,7 +14,6 @@ A beautiful, feature-rich web application to explore and analyze GitHub profiles
       <em>Toggle Theme (Light)</em>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="screenshots/second.png" ><br/>
@@ -25,7 +24,6 @@ A beautiful, feature-rich web application to explore and analyze GitHub profiles
       <em>Analytic dashboard</em>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="screenshots/fourth.png" ><br/>
@@ -213,4 +211,3 @@ This project uses the **GitHub REST API v3**:
 [Live Demo](https://github-profile-view-pi.vercel.app) · [Report Bug](https://github.com/ravibhushan10/github-profile-view/issues) · [Request Feature](https://github.com/ravibhushan10/github-profile-view/issues)
 
 ---
-
