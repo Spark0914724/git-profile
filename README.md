@@ -97,12 +97,12 @@ Each repository displays:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ravibhushan10/github-profile-view
+   git clone https://github.com/Spark0914724/git-profile.git
    ```
 
 2. **Navigate to project directory**
    ```bash
-   cd github-profile-view
+   cd git-profile
    ```
 
 3. **Open in browser**
@@ -152,8 +152,8 @@ This project uses the **GitHub REST API v3**:
 
 2. **Clone Your Fork**
 ```bash
-   git clone https://github.com/YOUR-USERNAME/github-profile-view.git
-   cd github-profile-view
+   git clone https://github.com/YOUR-USERNAME/git-profile.git
+   cd git-profile
 ```
 
 3. **Create a Branch**
@@ -189,25 +189,3 @@ This project uses the **GitHub REST API v3**:
        - Related issue numbers (e.g., "Fixes #123")
    - Click **"Create pull request"**
    - Wait for review and be responsive to feedback
-
-
-## 👨‍💻 Author
-
-**Ravi Bhushan**
-
-- LinkedIn: [https://www.linkedin.com/in/ravibhushan-kumar-55b312344](https://www.linkedin.com/in/ravibhushan-kumar-55b312344/)
-- Portfolio: [https://ravibhushan-portfolio.vercel.app](https://ravibhushan-portfolio.vercel.app)
-- GitHub: [@ravibhushan10](https://github.com/ravibhushan10)
-- Email: ravibhushankumar87tp@gmail.com
-
----
-
-<div align="center">
-
-### ⭐ Star this repository if it helped you!
-
-**Made with ❤️ by Ravi Bhushan**
-
-[Live Demo](https://github-profile-view-pi.vercel.app) · [Report Bug](https://github.com/ravibhushan10/github-profile-view/issues) · [Request Feature](https://github.com/ravibhushan10/github-profile-view/issues)
-
----
